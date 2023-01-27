@@ -1,0 +1,4 @@
+selenium==4.8.0
+pytest==7.2.1
+webdriver-manager==3.8.5
+polling~=0.3.2
